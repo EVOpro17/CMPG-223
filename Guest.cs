@@ -27,6 +27,7 @@ namespace Natuurpark1._2
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             //hallo daar sien jy dit 
+            //Ek weet nie hoekom joune nie wil werk nie 
 
         }
 
